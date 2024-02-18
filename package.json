@@ -9,5 +9,9 @@
     "@hono/eslint-config": "^0.0.3",
     "eslint": "^8.56.0",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@hono/clerk-auth": "^1.0.1",
+    "stripe": "^14.17.0"
   }
 }
